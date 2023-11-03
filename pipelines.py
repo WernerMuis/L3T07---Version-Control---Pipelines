@@ -1,3 +1,3 @@
-user_input = input("Type something:")
+client_input = input("Type something:")
 
-print(user_input)
+print(client_input)
